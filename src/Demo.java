@@ -8,5 +8,6 @@ public class Demo {
         System.out.println("Xin chao");
         System.out.println("VN");
         System.out.println("In thêm");
+        System.out.println("Thêm trên Git");
     }
 }
